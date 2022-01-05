@@ -1,21 +1,22 @@
 # Site/SEO settings
-email: 
+email: geonkang119@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
-url: ""
+title: PerfectMartini
+description: blog
+url: "https://perfectmartini.github.io"
 baseurl: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Geon Kang
 profile_img: 
-profile: 
+profile: Student
 social:
-  github: 
+  github: PerfectMartini
+  instagram: geon119
 
 # Build settings
 markdown: kramdown
