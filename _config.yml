@@ -15,8 +15,8 @@ name: Geon Kang
 profile_img: 
 profile: Student
 social:
-  github: PerfectMartini
-  instagram: geon119
+  github: https://github.com/PerfectMartini
+  instagram: https://www.instagram.com/geon119
 
 # Build settings
 markdown: kramdown
